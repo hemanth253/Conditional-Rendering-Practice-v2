@@ -1,2 +1,2 @@
-# Conditional-Rendering-Practice-v2
+# Conditional-Rendering-Practice
 Created with CodeSandbox
